@@ -1,0 +1,2 @@
+# CSSCIndustryCloud
+CSSCIndustryCloud Properties repository
